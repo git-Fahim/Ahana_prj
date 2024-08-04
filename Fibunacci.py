@@ -1,4 +1,4 @@
-# 0 1 1 2 3 5 8 13
+# 0 1 1 2 3 5 8 13 21
 
 Num=int(input("Enter the number of fibunacci series print:"))
 
